@@ -1,0 +1,4 @@
+username,password,randcode,expect
+user1,passowrd1,0000,aaa
+user2,password2,0000,用户名或密码错误
+admin,11g123,0000,用户名或密码错误
